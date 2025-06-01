@@ -133,6 +133,10 @@ Proper usage example :
 
 - Docs update
 
+## 3.3.0
+
+- Dart version update
+
 
 
 
